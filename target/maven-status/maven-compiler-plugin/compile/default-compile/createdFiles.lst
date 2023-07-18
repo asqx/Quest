@@ -1,0 +1,6 @@
+com/javarush/rantsev/controllers/questions/Question.class
+com/javarush/rantsev/controllers/questions/QuestionManager.class
+com/javarush/rantsev/controllers/RestartServlet.class
+com/javarush/rantsev/controllers/questions/Answer.class
+com/javarush/rantsev/controllers/InitServlet.class
+com/javarush/rantsev/controllers/GameServlet.class
